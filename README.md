@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/master-green)
 ![](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 ![](https://img.shields.io/github/contributors/goodhere/goodhere)
-![issues](https://img.shields.io/github/issues/benrmatthews/goodhere)
-![sponsor](https://opencollective.com/goodhere/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen)
+[![issues](https://img.shields.io/github/issues/benrmatthews/goodhere)](https://github.com/goodhere/goodhere/issues)
+[![sponsor](https://opencollective.com/goodhere/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen)](https://opencollective.com/goodhere)
 
 # Good Here
 
