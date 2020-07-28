@@ -3,8 +3,7 @@
 ![](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 ![](https://img.shields.io/github/contributors/goodhere/goodhere)
 ![issues](https://img.shields.io/github/issues/benrmatthews/goodhere)
-<img src="https://opencollective.com/goodhere/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen" />
-<object type="image/svg+xml" data="https://opencollective.com/goodhere/tiers/sponsor.svg?avatarHeight=36&width=600"></object>
+![sponsor](https://opencollective.com/goodhere/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen)
 
 # Good Here
 
@@ -111,3 +110,4 @@ To build the project locally:
 [gatsby-source-airtable]: https://github.com/jbolda/gatsby-source-airtable
 [netlify]: https://www.netlify.com/
 [issues]: https://github.com/goodhere/goodhere/issues
+[sponsor]: https://opencollective.com/goodhere
