@@ -1,4 +1,4 @@
-name: Climatescape website Node.js CI
+name: Good Here website Node.js CI
 
 on:
   pull_request:
