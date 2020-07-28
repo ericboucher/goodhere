@@ -10,9 +10,27 @@ This is the source code behind [goodhere.org][goodhere], an open database of soc
 
 Good Here helps you discover impactful projects, connect with the changemakers behind them, and pursue new social impact opportunities.
 
-## Beta
+Our mission is to focus more attention on the organizations making social impact, directing resource and support to teams on the front lines, and making it easier for organizations to find funding.
+
+Our ultimate goal is to facilitate action. More people working on social impact solutions, more capital to social impact organizations, more personal action form individuals.
 
 Beta website: https://goodhere.org/
+
+![Good Here Homepage](https://user-images.githubusercontent.com/1328236/88677289-ffbe3d80-d0e4-11ea-97b3-8c52fc8caabd.png)
+
+## Where does your data come from?
+
+Our database is an accumulation of contributions curated by a team of volunteer editors. We supplement contributions with publicly available data, allowing us to provide key facts about about each organization.
+
+## Why is *X* category or *Y* organization on this site?
+
+The topic of what does and doesn't qualify as "creating social impact" is filled with differing opinions. The reality is there is not a single right way to solve climate change, just a myriad of opportunities to have an impact. As a result we specifically avoid playing the role of arbiter and have a liberal acceptance policy.
+
+In the future, we will provide ways for our users to weigh in on the impact of specific organizations.
+
+## How can I support your project?
+
+We're grateful to have the support of anyone who believes in what we're doing. Check out the [Contribute page](https://goodhere.org/contribute) on our website for more information on how you can help.
 
 ## Developer Setup
 
